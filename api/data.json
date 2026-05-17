@@ -11,8 +11,8 @@
     },
     {
       "label": "Active records",
-      "value": "7",
-      "delta": "+3"
+      "value": "100",
+      "delta": "100 seeded"
     },
     {
       "label": "Workflow steps",
@@ -28,30 +28,1003 @@
   "records": [
     {
       "id": "dwellkit-1",
-      "title": "Leak reported",
+      "title": "Leak reported #001",
       "status": "Photo prompts",
       "owner": "Renter report",
-      "score": 92,
+      "score": 42,
       "trend": "High attention",
-      "updated": "8 min ago"
+      "updated": "8 min ago",
+      "demoSeed": true
     },
     {
       "id": "dwellkit-2",
-      "title": "Vendor packet ready",
+      "title": "Vendor packet ready #002",
       "status": "Emergency routing",
       "owner": "Vendor packet",
-      "score": 80,
+      "score": 49,
       "trend": "In progress",
-      "updated": "19 min ago"
+      "updated": "13 min ago",
+      "demoSeed": true
     },
     {
       "id": "dwellkit-3",
-      "title": "Access window confirmed",
+      "title": "Access window confirmed #003",
       "status": "Access windows",
       "owner": "Manager dashboard",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "18 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-4",
+      "title": "Leak reported #004",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "23 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-5",
+      "title": "Vendor packet ready #005",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "28 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-6",
+      "title": "Access window confirmed #006",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "33 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-7",
+      "title": "Leak reported #007",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "38 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-8",
+      "title": "Vendor packet ready #008",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "43 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-9",
+      "title": "Access window confirmed #009",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "48 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-10",
+      "title": "Leak reported #010",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "53 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-11",
+      "title": "Vendor packet ready #011",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "58 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-12",
+      "title": "Access window confirmed #012",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "63 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-13",
+      "title": "Leak reported #013",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "68 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-14",
+      "title": "Vendor packet ready #014",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "73 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-15",
+      "title": "Access window confirmed #015",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "78 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-16",
+      "title": "Leak reported #016",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "83 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-17",
+      "title": "Vendor packet ready #017",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "88 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-18",
+      "title": "Access window confirmed #018",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "93 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-19",
+      "title": "Leak reported #019",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "98 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-20",
+      "title": "Vendor packet ready #020",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "103 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-21",
+      "title": "Access window confirmed #021",
+      "status": "Photo prompts",
+      "owner": "Renter report",
       "score": 68,
       "trend": "Ready",
-      "updated": "30 min ago"
+      "updated": "108 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-22",
+      "title": "Leak reported #022",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "113 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-23",
+      "title": "Vendor packet ready #023",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "118 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-24",
+      "title": "Access window confirmed #024",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "123 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-25",
+      "title": "Leak reported #025",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "128 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-26",
+      "title": "Vendor packet ready #026",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "133 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-27",
+      "title": "Access window confirmed #027",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "138 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-28",
+      "title": "Leak reported #028",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "143 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-29",
+      "title": "Vendor packet ready #029",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "148 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-30",
+      "title": "Access window confirmed #030",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "153 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-31",
+      "title": "Leak reported #031",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "158 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-32",
+      "title": "Vendor packet ready #032",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "163 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-33",
+      "title": "Access window confirmed #033",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "168 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-34",
+      "title": "Leak reported #034",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "173 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-35",
+      "title": "Vendor packet ready #035",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "178 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-36",
+      "title": "Access window confirmed #036",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "183 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-37",
+      "title": "Leak reported #037",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "188 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-38",
+      "title": "Vendor packet ready #038",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "193 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-39",
+      "title": "Access window confirmed #039",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "198 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-40",
+      "title": "Leak reported #040",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "203 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-41",
+      "title": "Vendor packet ready #041",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "208 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-42",
+      "title": "Access window confirmed #042",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "213 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-43",
+      "title": "Leak reported #043",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "218 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-44",
+      "title": "Vendor packet ready #044",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 58,
+      "trend": "In progress",
+      "updated": "223 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-45",
+      "title": "Access window confirmed #045",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 65,
+      "trend": "Ready",
+      "updated": "228 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-46",
+      "title": "Leak reported #046",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 72,
+      "trend": "High attention",
+      "updated": "233 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-47",
+      "title": "Vendor packet ready #047",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 79,
+      "trend": "In progress",
+      "updated": "238 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-48",
+      "title": "Access window confirmed #048",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 86,
+      "trend": "Ready",
+      "updated": "243 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-49",
+      "title": "Leak reported #049",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 93,
+      "trend": "High attention",
+      "updated": "248 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-50",
+      "title": "Vendor packet ready #050",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 43,
+      "trend": "In progress",
+      "updated": "253 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-51",
+      "title": "Access window confirmed #051",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 50,
+      "trend": "Ready",
+      "updated": "258 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-52",
+      "title": "Leak reported #052",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 57,
+      "trend": "High attention",
+      "updated": "263 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-53",
+      "title": "Vendor packet ready #053",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 64,
+      "trend": "In progress",
+      "updated": "268 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-54",
+      "title": "Access window confirmed #054",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 71,
+      "trend": "Ready",
+      "updated": "273 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-55",
+      "title": "Leak reported #055",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 78,
+      "trend": "High attention",
+      "updated": "278 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-56",
+      "title": "Vendor packet ready #056",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 85,
+      "trend": "In progress",
+      "updated": "283 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-57",
+      "title": "Access window confirmed #057",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 92,
+      "trend": "Ready",
+      "updated": "288 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-58",
+      "title": "Leak reported #058",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 42,
+      "trend": "High attention",
+      "updated": "293 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-59",
+      "title": "Vendor packet ready #059",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 49,
+      "trend": "In progress",
+      "updated": "298 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-60",
+      "title": "Access window confirmed #060",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "303 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-61",
+      "title": "Leak reported #061",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "308 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-62",
+      "title": "Vendor packet ready #062",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "313 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-63",
+      "title": "Access window confirmed #063",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "318 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-64",
+      "title": "Leak reported #064",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "323 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-65",
+      "title": "Vendor packet ready #065",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "328 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-66",
+      "title": "Access window confirmed #066",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "333 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-67",
+      "title": "Leak reported #067",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "338 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-68",
+      "title": "Vendor packet ready #068",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "343 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-69",
+      "title": "Access window confirmed #069",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "348 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-70",
+      "title": "Leak reported #070",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "353 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-71",
+      "title": "Vendor packet ready #071",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "358 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-72",
+      "title": "Access window confirmed #072",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "363 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-73",
+      "title": "Leak reported #073",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "368 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-74",
+      "title": "Vendor packet ready #074",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "373 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-75",
+      "title": "Access window confirmed #075",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "378 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-76",
+      "title": "Leak reported #076",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "383 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-77",
+      "title": "Vendor packet ready #077",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "388 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-78",
+      "title": "Access window confirmed #078",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "393 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-79",
+      "title": "Leak reported #079",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "398 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-80",
+      "title": "Vendor packet ready #080",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "403 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-81",
+      "title": "Access window confirmed #081",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "408 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-82",
+      "title": "Leak reported #082",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "413 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-83",
+      "title": "Vendor packet ready #083",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "418 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-84",
+      "title": "Access window confirmed #084",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "423 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-85",
+      "title": "Leak reported #085",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "428 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-86",
+      "title": "Vendor packet ready #086",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "433 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-87",
+      "title": "Access window confirmed #087",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "438 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-88",
+      "title": "Leak reported #088",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "443 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-89",
+      "title": "Vendor packet ready #089",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "448 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-90",
+      "title": "Access window confirmed #090",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "453 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-91",
+      "title": "Leak reported #091",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "458 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-92",
+      "title": "Vendor packet ready #092",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "463 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-93",
+      "title": "Access window confirmed #093",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "468 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-94",
+      "title": "Leak reported #094",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "473 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-95",
+      "title": "Vendor packet ready #095",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "478 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-96",
+      "title": "Access window confirmed #096",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "483 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-97",
+      "title": "Leak reported #097",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "488 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-98",
+      "title": "Vendor packet ready #098",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "493 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-99",
+      "title": "Access window confirmed #099",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "498 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "dwellkit-100",
+      "title": "Leak reported #100",
+      "status": "Resolution status",
+      "owner": "Resolution tracker",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "503 min ago",
+      "demoSeed": true
     }
   ],
   "workflow": [
