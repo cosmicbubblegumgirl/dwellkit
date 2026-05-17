@@ -1,0 +1,96 @@
+{
+  "product": "DwellKit",
+  "category": "Rental Maintenance",
+  "backend": "GitHub Pages static JSON endpoint plus localStorage write simulation.",
+  "generatedBy": "Simone Govender",
+  "metrics": [
+    {
+      "label": "Fix readiness",
+      "value": "86%",
+      "delta": "+12%"
+    },
+    {
+      "label": "Active records",
+      "value": "7",
+      "delta": "+3"
+    },
+    {
+      "label": "Workflow steps",
+      "value": "4",
+      "delta": "mapped"
+    },
+    {
+      "label": "Local saves",
+      "value": "on",
+      "delta": "browser"
+    }
+  ],
+  "records": [
+    {
+      "id": "dwellkit-1",
+      "title": "Leak reported",
+      "status": "Photo prompts",
+      "owner": "Renter report",
+      "score": 92,
+      "trend": "High attention",
+      "updated": "8 min ago"
+    },
+    {
+      "id": "dwellkit-2",
+      "title": "Vendor packet ready",
+      "status": "Emergency routing",
+      "owner": "Vendor packet",
+      "score": 80,
+      "trend": "In progress",
+      "updated": "19 min ago"
+    },
+    {
+      "id": "dwellkit-3",
+      "title": "Access window confirmed",
+      "status": "Access windows",
+      "owner": "Manager dashboard",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "30 min ago"
+    }
+  ],
+  "workflow": [
+    {
+      "step": 1,
+      "title": "Photo prompts",
+      "detail": "DwellKit uses photo prompts to support renter report decisions for renters, property managers, and vendors."
+    },
+    {
+      "step": 2,
+      "title": "Emergency routing",
+      "detail": "DwellKit uses emergency routing to support vendor packet decisions for renters, property managers, and vendors."
+    },
+    {
+      "step": 3,
+      "title": "Access windows",
+      "detail": "DwellKit uses access windows to support manager dashboard decisions for renters, property managers, and vendors."
+    },
+    {
+      "step": 4,
+      "title": "Resolution status",
+      "detail": "DwellKit uses resolution status to support resolution tracker decisions for renters, property managers, and vendors."
+    }
+  ],
+  "activity": [
+    {
+      "title": "Improve report quality",
+      "time": "1h",
+      "kind": "Photo prompts"
+    },
+    {
+      "title": "Route urgent issues fast",
+      "time": "2h",
+      "kind": "Emergency routing"
+    },
+    {
+      "title": "Give renters useful status updates",
+      "time": "3h",
+      "kind": "Access windows"
+    }
+  ]
+}
